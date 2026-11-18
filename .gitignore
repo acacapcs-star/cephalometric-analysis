@@ -1,0 +1,7 @@
+# never commit patient data
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.xlsx
+__pycache__/
